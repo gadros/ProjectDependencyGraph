@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConvertExcelToDependencyGraphApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WorkBreakDownSheet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Effort Estimation</Value>
+    </Setting>
+    <Setting Name="FirstDataRow" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="RowKeyColumn" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ParentRowsColumn" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="EstimatedffortColumn" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="DescriptionColumnFailback" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4,3,2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
